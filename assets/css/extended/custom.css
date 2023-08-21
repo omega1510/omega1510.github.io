@@ -1,0 +1,15 @@
+:root, .dark {
+  --link-color: var(--primary);
+  --link-hover-color: #dea404;
+  --link-underline-shadow: 0 1px 0 var(--link-color);
+  --link-hover-underline-color: #dea404;
+  --link-hover-underline-shadow: 0 2px 0 var(--link-hover-underline-color);
+}
+
+.post-description {
+    margin: var(--content-gap) 0;
+    color: var(--secondary);
+    opacity: .8;
+    /* padding-left: .5em; */
+    /* border-left: 8px solid var(--signature); */
+}
