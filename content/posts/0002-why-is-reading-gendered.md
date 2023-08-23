@@ -6,6 +6,8 @@ author: "Hayaan Rizvi"
 showToc: false
 TocOpen: false
 draft: false
+tags:
+  - reading
 ---
 
 I read a lot. Now that I think about it, I probably read too much. I stay up for hours most nights engrossed in the expansive world behind my Kindle's screen, dying to learn about the latest adventure the protagonist has gotten caught up in.

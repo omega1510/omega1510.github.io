@@ -6,6 +6,8 @@ author: "Hayaan Rizvi"
 showToc: false
 TocOpen: false
 draft: false
+tags:
+  - meta
 ---
 
 ## Motivation
