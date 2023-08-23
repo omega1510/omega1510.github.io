@@ -8,10 +8,10 @@
     <lastBuildDate>Sun, 20 Aug 2023 18:44:27 -0700</lastBuildDate><atom:link href="https://omega1510.github.io/blog/tags/meta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Hello, world!</title>
-      <link>https://omega1510.github.io/blog/posts/0001-hello-world/</link>
+      <link>https://omega1510.github.io/blog/posts/0001/hello-world/</link>
       <pubDate>Sun, 20 Aug 2023 18:44:27 -0700</pubDate>
       
-      <guid>https://omega1510.github.io/blog/posts/0001-hello-world/</guid>
+      <guid>https://omega1510.github.io/blog/posts/0001/hello-world/</guid>
       <description>Why I write.</description>
       <content:encoded><![CDATA[<h2 id="motivation">Motivation</h2>
 <p>I think it&rsquo;s fitting for the first post on this blog to be an explanation of why I&rsquo;m writing.</p>
