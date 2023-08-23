@@ -4,6 +4,27 @@
     <title>Tags on Hayaan&#39;s Blog</title>
     <link>https://omega1510.github.io/blog/tags/</link>
     <description>Recent content in Tags on Hayaan&#39;s Blog</description>
-    <generator>Hugo -- gohugo.io</generator><atom:link href="https://omega1510.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Tue, 22 Aug 2023 21:00:51 -0700</lastBuildDate><atom:link href="https://omega1510.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>reading</title>
+      <link>https://omega1510.github.io/blog/tags/reading/</link>
+      <pubDate>Tue, 22 Aug 2023 21:00:51 -0700</pubDate>
+      
+      <guid>https://omega1510.github.io/blog/tags/reading/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>meta</title>
+      <link>https://omega1510.github.io/blog/tags/meta/</link>
+      <pubDate>Sun, 20 Aug 2023 18:44:27 -0700</pubDate>
+      
+      <guid>https://omega1510.github.io/blog/tags/meta/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
   </channel>
 </rss>
