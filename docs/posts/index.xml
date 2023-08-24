@@ -5,7 +5,29 @@
     <link>https://omega1510.github.io/blog/posts/</link>
     <description>Recent content in Posts on Hayaan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 22 Aug 2023 21:00:51 -0700</lastBuildDate><atom:link href="https://omega1510.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 23 Aug 2023 22:07:58 -0700</lastBuildDate><atom:link href="https://omega1510.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Artificial Intelligence and Copyright</title>
+      <link>https://omega1510.github.io/blog/posts/0004/ai-and-copyright/</link>
+      <pubDate>Wed, 23 Aug 2023 22:07:58 -0700</pubDate>
+      
+      <guid>https://omega1510.github.io/blog/posts/0004/ai-and-copyright/</guid>
+      <description>Court rules that AI-generated images can&amp;#39;t be copyrighted.</description>
+      <content:encoded><![CDATA[<p>Last week, a U.S. District Judge <a href="https://www.reuters.com/legal/ai-generated-art-cannot-receive-copyrights-us-court-says-2023-08-21/">ruled</a> that images created solely by artifical intelligence without any human input cannot be copyrighted under U.S. copyright law. He stated that human authorship is a prerequisite for copyright, and simply owning the AI responsible for generating a work is not enough to give you authorship of its creation. I am very interested in seeing how this precedent plays out in court cases in the coming years.</p>
+<p>In particular, the issue of how much editing a human needs to do to the generated content for it to be considered a derivative work is of paramount importance and interest. If you have ChatGPT write an article, but you make a website and post it online, is that enough &ldquo;modification&rdquo; for you to be given ownership over the work?<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> What if you perform minimal edits, like removing the [YOUR NAME] bits the AI sometimes outputs? Is that &ldquo;modification?&rdquo; SAG-AFTRA, the Hollywood writers union that is currently on strike over the use of AI in the industry, has a vested interest in not allowing copyrighting of works where even a little bit of generative AI was used.</p>
+<p>AI is meant to be used like an assistant. So if you and your assistant work on something together, and your assistant releases it to the public domain, how much editing to you need to do for you to claw back ownership and copyright it?</p>
+<p>I am going to be closely following developments in the realm of artificial intelligence and copyright; I find this field, filled with moral landmines and massive grey areas, to be fascinating.</p>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>By the way, absolutely no generative AI is used when writing for this blog. In fact, I barely use generative AI at all because I find its use to be morally questionable and intellectually debillitating. Sorry OpenAI, I prefer to think for myself.&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>My Thoughts on The Double</title>
       <link>https://omega1510.github.io/blog/posts/0003/the-double/</link>
