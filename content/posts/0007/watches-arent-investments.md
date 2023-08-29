@@ -1,7 +1,7 @@
 ---
 title: "Watches Aren't Investments"
 date: 2023-08-28T20:33:07-07:00
-description: "They are emotional purchases, not rational ones"
+description: "They are emotional purchases, not rational ones."
 author: "Hayaan Rizvi"
 showToc: false
 TocOpen: false
