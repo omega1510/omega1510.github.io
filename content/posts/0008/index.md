@@ -6,6 +6,8 @@ author: "Hayaan Rizvi"
 showToc: false
 TocOpen: false
 draft: false
+tags:
+  - technology
 ---
 
 I have been using Pop_OS!, a popular Linux distribution, on my laptop for years. Recently, I also switched my old desktop over to the lightweight operating system. When people argue over what system is the best, they often only consider macOS or Windows. However, a user of either system will not consider where both fail because they have never experienced what they could have had. Because I use neither, I think I can provide a unique perspective on the shortcomings of both options.
