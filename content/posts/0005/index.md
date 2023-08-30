@@ -7,7 +7,7 @@ showToc: false
 TocOpen: false
 draft: false
 cover:
-  image: "posts/0005/tree.jpg"
+  image: "tree.jpg"
   alt: "A tree and a bench."
   caption: "Photo by Bill Fairs on Unsplash"
   hidden: false

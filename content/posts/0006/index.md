@@ -7,7 +7,8 @@ showToc: false
 TocOpen: false
 draft: false
 cover:
-  image: "posts/0006/gunpoint.jpg"
+  image: "gunpoint.jpg"
+  caption: Photo by Maxim Hopman on Unsplash.
   hidden: false
 tags: 
   - philosophy
