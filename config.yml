@@ -21,7 +21,7 @@ params:
     keywords: [Blog, Portfolio, Personal, Tech]
     author: Hayaan Rizvi
     # author: ["Me", "You"] # multiple authors
-    images: ["<link or path of image for opengraph, twitter-cards>"]
+    images: ["/images/writing.jpg"]
     DateFormat: "January 2, 2006"
     defaultTheme: auto # dark, light
     disableThemeToggle: false
@@ -39,7 +39,7 @@ params:
     hideSummary: false
     showtoc: false
     tocopen: false
-    math: true
+    math: false
 
     assets:
         # disableFingerprinting: true
