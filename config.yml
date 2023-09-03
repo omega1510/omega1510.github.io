@@ -131,8 +131,9 @@ markup:
         # anchorLineNos: true
         codeFences: true
         guessSyntax: true
+        tabWidth: 4
         lineNos: true
-        style: monokai
+        style: gruvbox
 
 outputs:
     home:
