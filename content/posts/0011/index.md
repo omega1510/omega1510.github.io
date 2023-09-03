@@ -5,7 +5,7 @@ description: "Why do I have to \"opt-out?\""
 author: "Hayaan Rizvi"
 showToc: false
 TocOpen: false
-draft: true
+draft: false
 tags:
   - technology
   - meta

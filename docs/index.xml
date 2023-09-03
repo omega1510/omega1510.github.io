@@ -5,7 +5,39 @@
     <link>https://omega1510.github.io/blog/</link>
     <description>Recent content on Hayaan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 01 Sep 2023 20:16:17 -0700</lastBuildDate><atom:link href="https://omega1510.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Sep 2023 22:02:56 -0700</lastBuildDate><atom:link href="https://omega1510.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Opting Out of AI Web Scraping</title>
+      <link>https://omega1510.github.io/blog/posts/0011/</link>
+      <pubDate>Fri, 01 Sep 2023 22:02:56 -0700</pubDate>
+      
+      <guid>https://omega1510.github.io/blog/posts/0011/</guid>
+      <description>Why do I have to &amp;#34;opt-out?&amp;#34;</description>
+      <content:encoded><![CDATA[<p>If you open my website&rsquo;s <a href="https://omega1510.github.io/robots.txt">robots.txt</a>, you will see that it includes the following lines:</p>
+<div class="highlight"><div class="chroma">
+<table class="lntable"><tr><td class="lntd">
+<pre tabindex="0" class="chroma"><code><span class="lnt">1
+</span><span class="lnt">2
+</span><span class="lnt">3
+</span><span class="lnt">4
+</span><span class="lnt">5
+</span></code></pre></td>
+<td class="lntd">
+<pre tabindex="0" class="chroma"><code class="language-yaml" data-lang="yaml"><span class="nt">User-agent</span><span class="p">:</span><span class="w"> </span><span class="l">GPTBot</span><span class="w">
+</span><span class="w"></span><span class="nt">Disallow</span><span class="p">:</span><span class="w"> </span><span class="l">/</span><span class="w">
+</span><span class="w">
+</span><span class="w"></span><span class="nt">User-agent</span><span class="p">:</span><span class="w"> </span><span class="l">ChatGPT-User</span><span class="w">
+</span><span class="w"></span><span class="nt">Disallow</span><span class="p">:</span><span class="w"> </span><span class="l">/</span><span class="w">
+</span></code></pre></td></tr></table>
+</div>
+</div><p>What do these lines of code do? Well, they stop OpenAI&rsquo;s ChatGPT from learning from my blog.</p>
+<p>OpenAI recently unveiled GPTBot, a piece of software that lets them harvest data from the web to train their artificial intelligence models on. If you take issue with that, like I do, then adding those lines to your website prevent it from scraping the content you wrote.</p>
+<p>I, and many other people, don&rsquo;t want artifical intelligence benefiting from my blood, sweat, and tears for free. I find it deplorable that you must &ldquo;opt-out&rdquo; of this process. What about people who have no idea that their data is being harvested and used, or who aren&rsquo;t technically inclined enough to block GPTBot? Will their data be used without compensation until the end of time?</p>
+<p>The way it should work is that you must opt-in specifically, and only then will OpenAI scrape your website. Unfortunately, we all know this won&rsquo;t happen. All OpenAI cares about is profit, and that won&rsquo;t happen if they actually respect people&rsquo;s basic right to privacy.</p>
+<p>I recently talked about this with a friend. He told me that AI is the future of using the web, and if I block ChatGPT, I&rsquo;m going to lose out on a lot of readers. My opinion may change in the future, but as of now, so be it.</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>School Has Started</title>
       <link>https://omega1510.github.io/blog/posts/0010/</link>

@@ -5,13 +5,13 @@
     <link>https://omega1510.github.io/blog/tags/</link>
     <description>Recent content in Tags on Hayaan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 01 Sep 2023 20:16:17 -0700</lastBuildDate><atom:link href="https://omega1510.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 01 Sep 2023 22:02:56 -0700</lastBuildDate><atom:link href="https://omega1510.github.io/blog/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>personal</title>
-      <link>https://omega1510.github.io/blog/tags/personal/</link>
-      <pubDate>Fri, 01 Sep 2023 20:16:17 -0700</pubDate>
+      <title>meta</title>
+      <link>https://omega1510.github.io/blog/tags/meta/</link>
+      <pubDate>Fri, 01 Sep 2023 22:02:56 -0700</pubDate>
       
-      <guid>https://omega1510.github.io/blog/tags/personal/</guid>
+      <guid>https://omega1510.github.io/blog/tags/meta/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
@@ -19,9 +19,19 @@
     <item>
       <title>technology</title>
       <link>https://omega1510.github.io/blog/tags/technology/</link>
-      <pubDate>Tue, 29 Aug 2023 16:45:03 -0700</pubDate>
+      <pubDate>Fri, 01 Sep 2023 22:02:56 -0700</pubDate>
       
       <guid>https://omega1510.github.io/blog/tags/technology/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
+    <item>
+      <title>personal</title>
+      <link>https://omega1510.github.io/blog/tags/personal/</link>
+      <pubDate>Fri, 01 Sep 2023 20:16:17 -0700</pubDate>
+      
+      <guid>https://omega1510.github.io/blog/tags/personal/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
@@ -52,16 +62,6 @@
       <pubDate>Tue, 22 Aug 2023 21:00:51 -0700</pubDate>
       
       <guid>https://omega1510.github.io/blog/tags/reading/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>meta</title>
-      <link>https://omega1510.github.io/blog/tags/meta/</link>
-      <pubDate>Sun, 20 Aug 2023 18:44:27 -0700</pubDate>
-      
-      <guid>https://omega1510.github.io/blog/tags/meta/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
