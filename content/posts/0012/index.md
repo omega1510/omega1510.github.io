@@ -1,5 +1,5 @@
 ---
-title: "Cities upon a Hill"
+title: "Cities Upon a Hill"
 date: 2023-09-03T18:32:10-07:00
 description: "Social media is dying."
 author: "Hayaan Rizvi"
