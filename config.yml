@@ -21,7 +21,7 @@ params:
     keywords: [Blog, Portfolio, Personal, Tech]
     author: Hayaan Rizvi
     # author: ["Me", "You"] # multiple authors
-    images: ["/images/writing.jpg"]
+    images: ["/blog/images/writing.jpg"]
     DateFormat: "January 2, 2006"
     defaultTheme: auto # dark, light
     disableThemeToggle: false
