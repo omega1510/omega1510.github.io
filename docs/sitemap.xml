@@ -2,19 +2,25 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://omega1510.github.io/blog/</loc>
+    <lastmod>2023-09-04T20:39:55-07:00</lastmod>
+  </url><url>
+    <loc>https://omega1510.github.io/blog/posts/0013/</loc>
+    <lastmod>2023-09-04T20:39:55-07:00</lastmod>
+  </url><url>
+    <loc>https://omega1510.github.io/blog/posts/</loc>
+    <lastmod>2023-09-04T20:39:55-07:00</lastmod>
+  </url><url>
+    <loc>https://omega1510.github.io/blog/tags/reading/</loc>
+    <lastmod>2023-09-04T20:39:55-07:00</lastmod>
+  </url><url>
+    <loc>https://omega1510.github.io/blog/tags/</loc>
+    <lastmod>2023-09-04T20:39:55-07:00</lastmod>
+  </url><url>
     <loc>https://omega1510.github.io/blog/posts/0012/</loc>
     <lastmod>2023-09-03T18:32:10-07:00</lastmod>
   </url><url>
-    <loc>https://omega1510.github.io/blog/</loc>
-    <lastmod>2023-09-03T18:32:10-07:00</lastmod>
-  </url><url>
     <loc>https://omega1510.github.io/blog/tags/personal/</loc>
-    <lastmod>2023-09-03T18:32:10-07:00</lastmod>
-  </url><url>
-    <loc>https://omega1510.github.io/blog/posts/</loc>
-    <lastmod>2023-09-03T18:32:10-07:00</lastmod>
-  </url><url>
-    <loc>https://omega1510.github.io/blog/tags/</loc>
     <lastmod>2023-09-03T18:32:10-07:00</lastmod>
   </url><url>
     <loc>https://omega1510.github.io/blog/tags/meta/</loc>
@@ -54,9 +60,6 @@
     <lastmod>2023-08-23T22:07:58-07:00</lastmod>
   </url><url>
     <loc>https://omega1510.github.io/blog/posts/0003/</loc>
-    <lastmod>2023-08-22T21:00:51-07:00</lastmod>
-  </url><url>
-    <loc>https://omega1510.github.io/blog/tags/reading/</loc>
     <lastmod>2023-08-22T21:00:51-07:00</lastmod>
   </url><url>
     <loc>https://omega1510.github.io/blog/posts/0002/</loc>
