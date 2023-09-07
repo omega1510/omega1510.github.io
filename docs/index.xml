@@ -5,7 +5,24 @@
     <link>https://omega1510.github.io/blog/</link>
     <description>Recent content on Hayaan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Tue, 05 Sep 2023 16:25:39 -0700</lastBuildDate><atom:link href="https://omega1510.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 06 Sep 2023 18:55:57 -0700</lastBuildDate><atom:link href="https://omega1510.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Outsourcing Thinking with Artificial Intelligence</title>
+      <link>https://omega1510.github.io/blog/posts/0015/</link>
+      <pubDate>Wed, 06 Sep 2023 18:55:57 -0700</pubDate>
+      
+      <guid>https://omega1510.github.io/blog/posts/0015/</guid>
+      <description>ChatGPT thinks so we don&amp;#39;t have to.</description>
+      <content:encoded><![CDATA[<p>I have no doubt that artifical intelligence is the next breakthrough technology. I am sure that you have seen the myriad of startups sticking machine learning into places it shouldn&rsquo;t go. Already generative AI has reformed the education space, forcing teachers and schools to adapt or fall behind.</p>
+<p>Like every breakthrough technology, research in the field follows a sigmoid curve. It starts out slow, then it feels like everything is using it all of a sudden, then it flattens out as innovation hits a plateau. With AI, it is impossible to tell where we are on that curve. I sincerely hope that we are nearing the end, that this technology has hit its limit and cannot improve any more.</p>
+<p><img loading="lazy" src="/blog/posts/0015/sigmoid.svg" type="" alt="A sigmoid curve."  /></p>
+<p>Why do I feel this way? A scary pattern emerges when we look at the consequences of widespread adoption of previous breakthrough technologies. When the camera came along, we could offload our responsibility to remember the events in our life to the camera. No longer did we have to fill our brains with information about our experiences; we could rely on a photograph instead. The result: our memories of an object <a href="https://doi.org/10.1177/0956797613504438">are limited</a> when we take a photo of that object.</p>
+<p>I fear that if we begin outsourcing all our thinking to artifical intelligence, we will lose the ability to think. In my view, the ability to think critically is humanity&rsquo;s greatest strength. If we rely on generative AI to draw connections and link ideas, we <strong>will</strong> forget how to do it ourselves. And that scares me.</p>
+<p>I am reminded of H. G. Wells' 1895 novella <em>The Time Machine</em>. In it, the upper class of humanity has slowly made its life easier and easier through manipulation of its environment and of the workers beneath it. With no problems to solve, these future humans have devolved into animals with no ability to think. The workers, who have always relied on themselves to get by, become the new ruling class.</p>
+<p>I hope that artificial intelligence has peaked. If it hasn&rsquo;t, it will come to destroy us, slowly boiling us like frogs.</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>I Can&#39;t Do What I Love</title>
       <link>https://omega1510.github.io/blog/posts/0014/</link>
