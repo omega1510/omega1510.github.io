@@ -46,7 +46,7 @@ All things vary in their imitation of the True, the Good, and the Beautiful. Som
 
 Something must exist that is the most True, Good, and Beautiful—the "tallest" of all existence, so to speak. Furthermore, the most perfect in any group is the cause of all qualities of that group, like how fire, the pinnacle of heat, is the cause of all hot things. There must be a being to which all truth, nobility, and beauty is devoted—a being perfect in every way. This being we call God.
 
-## Argument from Final Cause
+## The Argument from Final Cause
 
 Inanimate objects in the world behave in regular and predictable ways. If their design was based purely on chance, then their behavior would not be predictable. For these inanimate objects, which lack intelligence, the fact that they move toward the same purpose means they must have been directed by something else with intelligence and influence.
 
