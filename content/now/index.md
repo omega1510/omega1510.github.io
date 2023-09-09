@@ -15,7 +15,7 @@ ShowWordCount: false
 ShowPostNavLinks: false
 ---
 
-## Whats Going On
+## What's Going On
 
 I am a 17 year old high school senior living in Fremont, California. I go to school at [RISE Academy](https://www.riseacademy.education/) and am currently trying to get into a top university for biochemistry. I am have been an officer member of Student Council for 2 years.
 
