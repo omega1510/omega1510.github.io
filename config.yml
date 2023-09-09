@@ -115,6 +115,10 @@ menu:
           name: Hello
           url: /hello
           weight: 10
+        - identifier: now
+          name: Now
+          url: /now
+          weight: 10
         - identifier: posts
           name: Posts
           url: /posts/
