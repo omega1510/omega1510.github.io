@@ -20,6 +20,6 @@ In "[Why is AI Scary? Robots Already Control You,](https://www.linkedin.com/puls
 
 This is why I love RSS. No multi-national ~~devils~~ corporations, no algorithms, no artificial intelligence—just control. RSS is a technology that lets you view posts from many different websites as a feed. For example, if I really like a blog, I will add it to my RSS aggregator. If I start to dislike a blog, I can just remove it. No algorithms serving me content to control me and maximize my watch time. I have full control.
 
-One thing I find particularly dangerous with algorithms is news websites. They try to serve you headlines that incite an emotional response, not ones that give you an actual overview of the news. This way, they can have a massive influence on what the public believes. It is a modern-day version of the content censorship that was widespread in totalitarian governments, like the Soviet Union.
+One thing I find particularly dangerous with algorithms is news websites. They try to serve you headlines that incite an emotional response, not ones that give you an actual overview of the news. This way, they can have a massive influence on what the public believes. It is a modern-day version of the content censorship that was widespread in totalitarian governments, like the Soviet Union. Using RSS is especially important in this case.
 
 I think everyone should use RSS wherever they can to limit the control AI has on them.
