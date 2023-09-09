@@ -6,7 +6,7 @@ author: "Hayaan Rizvi"
 showToc: false
 TocOpen: false
 draft: false
-tag:
+tags:
   - philosophy
 ---
 
