@@ -1,7 +1,7 @@
 ---
 title: "RSS and Algorithms"
 date: 2023-09-09T16:23:18-07:00
-description: "Description Text."
+description: "How to limit algorithms' control on you."
 author: "Hayaan Rizvi"
 showToc: false
 TocOpen: false
