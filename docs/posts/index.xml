@@ -5,7 +5,37 @@
     <link>https://omega1510.github.io/blog/posts/</link>
     <description>Recent content in Posts on Hayaan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 09 Sep 2023 16:23:18 -0700</lastBuildDate><atom:link href="https://omega1510.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 10 Sep 2023 15:27:00 -0700</lastBuildDate><atom:link href="https://omega1510.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Using the Right Tool for the Job</title>
+      <link>https://omega1510.github.io/blog/posts/0020/</link>
+      <pubDate>Sun, 10 Sep 2023 15:27:00 -0700</pubDate>
+      
+      <guid>https://omega1510.github.io/blog/posts/0020/</guid>
+      <description>Things are much easier that way.</description>
+      <content:encoded><![CDATA[<p>A year or so ago, I learned the Rust<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> programming language. Since its first stable release in 2015, it has quickly developed a hold on the world of systems programming. It is well loved because it enforces memory safety, something many existing systems languages, like C, do not.</p>
+<p>Rust was designed from the ground up to be a <em>systems</em> programming language, used to build performance-critical software like operating systems and embedded applications. But then people go and try to build websites with it. I admit, I <a href="https://github.com/omega1510/webassembly">am</a> <a href="https://github.com/omega1510/todo">guilty</a> of this, too.</p>
+<figure><a href="https://www.smbc-comics.com/comic/qc">
+    <img loading="lazy" src="comic.png"
+         alt="Part of a comic from SMBC."/> </a><figcaption>
+            <p>Part of a comic from <a href="https://www.smbc-comics.com/comic/qc">SMBC</a>.</p>
+        </figcaption>
+</figure>
+
+<p>What I have learned, though, is that things are often easier when you use the right tool for the job. As much as I hate javascript, I will still use it if I need to build a website. And as much as I love Rust, I will come running back Python for any data manipulation.</p>
+<p>Picking the right tool from the outset saves you from <em>so</em> much frustration. For example, I have sunk countless hours into modifying and customizing my macOS system, something it is clearly not meant to allow. I have also put in large amounts of effort to try and get Windows games running on other operating systems. I could have avoided stress and frustration if I had customized Linux instead and ran Windows to play games.</p>
+<p>Making something do a thing it wasn&rsquo;t meant to do is akin to taking an exam with a piece of charcoal instead of a pencil. Sure, it works in theory, but it&rsquo;s so stupid no one would actually do it. But when it comes to software, everyone suddenly calls it innovation, not stupidity.</p>
+<section class="footnotes" role="doc-endnotes">
+<hr>
+<ol>
+<li id="fn:1" role="doc-endnote">
+<p>This article is <strong>not</strong> endorsed by the <a href="https://foundation.rust-lang.org/policies/logo-policy-and-media-guide/">Rust Foundation</a>™®© :)&#160;<a href="#fnref:1" class="footnote-backref" role="doc-backlink">&#x21a9;&#xfe0e;</a></p>
+</li>
+</ol>
+</section>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>RSS and Algorithms</title>
       <link>https://omega1510.github.io/blog/posts/0019/</link>
