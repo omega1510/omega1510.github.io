@@ -118,11 +118,15 @@ menu:
         - identifier: now
           name: Now
           url: /now
-          weight: 10
+          weight: 20
         - identifier: posts
           name: Posts
           url: /posts/
-          weight: 20
+          weight: 30
+        - identifier: archive
+          name: Archive
+          url: /archive/
+          weight: 40
         - identifier: search
           name: Search
           url: /search
