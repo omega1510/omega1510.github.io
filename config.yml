@@ -119,10 +119,10 @@ menu:
           name: Now
           url: /now
           weight: 20
-        - identifier: posts
-          name: Posts
-          url: /posts/
-          weight: 30
+        # - identifier: posts
+        #   name: Posts
+        #   url: /posts/
+        #   weight: 30
         - identifier: archive
           name: Archive
           url: /archive/
