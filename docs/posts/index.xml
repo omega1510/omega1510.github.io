@@ -5,7 +5,23 @@
     <link>https://omega1510.github.io/blog/posts/</link>
     <description>Recent content in Posts on Hayaan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 10 Sep 2023 15:27:00 -0700</lastBuildDate><atom:link href="https://omega1510.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Sep 2023 18:47:18 -0700</lastBuildDate><atom:link href="https://omega1510.github.io/blog/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Centralization of Power</title>
+      <link>https://omega1510.github.io/blog/posts/0021/</link>
+      <pubDate>Mon, 11 Sep 2023 18:47:18 -0700</pubDate>
+      
+      <guid>https://omega1510.github.io/blog/posts/0021/</guid>
+      <description>Power-hungry execs are destroying the Web.</description>
+      <content:encoded><![CDATA[<p>In the long-ago, email was created to allow easy communication over the Internet. I don&rsquo;t know if you have ever noticed, but email is completely decentralized—a buzzword usually reserved for Web3 startups promising to reform crypto. But in all seriousness, this decentralized nature is why email is so ubiquitous today. Imagine if a hotmail user couldn&rsquo;t email a gmail user: that would be horrible! Because it&rsquo;s open source and decentralized, anyone can create a email server and send email to any other email server. Furthermore, anyone can use any email client to access their email.</p>
+<p>This is in stark contrast to the social media platforms of today. Twitter is locked down. Reddit is locked down. Facebook. Instagram. WhatsApp. The list is so long I would probably break the upload limit on my WiFi if I tried to post it all.</p>
+<p>In an ideal world, a photo I post on Instagram would show up on Twitter, Reddit, and the like. Any replies on any of the platforms would seamlessly show up on the others. Exactly how email works today between different email apps and services. So why don&rsquo;t all these modern social media platforms talk to each other?</p>
+<p>I think its because executives at these companies are trying to centralize their power to make a little extra cash. The centralization of power is something we are witnessing more and more in the corporate world. For example, Twitter and Reddit recently closed down their APIs to third-parties (where they couldn&rsquo;t show advertisements), set vague rules, and forced users who didn&rsquo;t comply out of the platform. Companies don&rsquo;t want to share because that doesn&rsquo;t promote their bottom line.</p>
+<p>Centralization of power, like most things, has pros and cons. I&rsquo;m not here to preach about when it is appropriate and when not. However, I can say that consolidating power in a single entity is often to the detriment of massive portions of the user base.</p>
+<p>The Internet would be a less hostile, open place if platforms could talk to each other like email services do.</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>Using the Right Tool for the Job</title>
       <link>https://omega1510.github.io/blog/posts/0020/</link>
