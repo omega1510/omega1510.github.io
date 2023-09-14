@@ -5,7 +5,21 @@
     <link>https://hayaan.me/</link>
     <description>Recent content on Hayaan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 11 Sep 2023 18:47:18 -0700</lastBuildDate><atom:link href="https://hayaan.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 13 Sep 2023 19:23:31 -0700</lastBuildDate><atom:link href="https://hayaan.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Setting Up a Custom Domain</title>
+      <link>https://hayaan.me/posts/0022/</link>
+      <pubDate>Wed, 13 Sep 2023 19:23:31 -0700</pubDate>
+      
+      <guid>https://hayaan.me/posts/0022/</guid>
+      <description>It&amp;#39;s important for the longevity of the web.</description>
+      <content:encoded><![CDATA[<p>Using a custom domain on your website is great for all the obvious reasons. It forms a brand identity, keeps your site memorable, and looks much better than <code>username.github.io</code>, for example.</p>
+<p>But, it&rsquo;s important for another reason: longevity. No web server is forever. Your website <strong>will</strong> die some day in the future in an irrecoverable way. When that happens, you will be forced to transfer it to a new server. If you don&rsquo;t own your domain, all the links to your content that you have accumulated throughout the years will die with your old server. With a custom domain, maintaining hyperlinks in the event of a catastrophic faliure is as simple as editing a couple lines of text.</p>
+<p>It is for this reason that I have finally purchased a custom domain for this blog: <a href="https://hayaan.me/">https://hayaan.me/</a>. I hope you will too for your site.</p>
+<p>P.S. Domain records are <em>way</em> more complicated and slow than they ought to be.</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>Centralization of Power</title>
       <link>https://hayaan.me/posts/0021/</link>
