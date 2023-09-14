@@ -1,4 +1,4 @@
-baseURL: "https://omega1510.github.io/blog"
+baseURL: "https://hayaan.me"
 title: "Hayaan's Blog"
 paginate: 5
 theme: PaperModX
@@ -18,10 +18,10 @@ params:
     env: production # to enable opengraph, twitter-cards and schema.
     title: Hayaan Rizvi - Blog
     description: "My little corner of the internet."
-    keywords: [Blog, Portfolio, Personal, Tech]
+    keywords: [Blog, Portfolio, Personal, Tech, Philosophy]
     author: Hayaan Rizvi
     # author: ["Me", "You"] # multiple authors
-    images: ["/blog/images/writing.jpg"]
+    images: ["/images/writing.jpg"]
     DateFormat: "January 2, 2006"
     defaultTheme: auto # dark, light
     disableThemeToggle: false
@@ -81,7 +81,7 @@ params:
 
     socialIcons:
         - name: external-link
-          url: "https://omega1510.github.io"
+          url: "https://hayaan.me/cv"
         - name: github
           url: "https://github.com/omega1510"
         - name: email

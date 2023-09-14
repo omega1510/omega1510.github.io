@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hayaan&#39;s Blog</title>
-    <link>https://omega1510.github.io/blog/</link>
+    <link>https://hayaan.me/</link>
     <description>Recent content on Hayaan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 11 Sep 2023 18:47:18 -0700</lastBuildDate><atom:link href="https://omega1510.github.io/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 11 Sep 2023 18:47:18 -0700</lastBuildDate><atom:link href="https://hayaan.me/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Centralization of Power</title>
-      <link>https://omega1510.github.io/blog/posts/0021/</link>
+      <link>https://hayaan.me/posts/0021/</link>
       <pubDate>Mon, 11 Sep 2023 18:47:18 -0700</pubDate>
       
-      <guid>https://omega1510.github.io/blog/posts/0021/</guid>
+      <guid>https://hayaan.me/posts/0021/</guid>
       <description>Power-hungry execs are destroying the Web.</description>
       <content:encoded><![CDATA[<p>In the long-ago, email was created to allow easy communication over the Internet. I don&rsquo;t know if you have ever noticed, but email is completely decentralized—a buzzword usually reserved for Web3 startups promising to reform crypto. But in all seriousness, this decentralized nature is why email is so ubiquitous today. Imagine if a hotmail user couldn&rsquo;t email a gmail user: that would be horrible! Because it&rsquo;s open source and decentralized, anyone can create a email server and send email to any other email server. Furthermore, anyone can use any email client to access their email.</p>
 <p>This is in stark contrast to the social media platforms of today. Twitter is locked down. Reddit is locked down. Facebook. Instagram. WhatsApp. The list is so long I would probably break the upload limit on my WiFi if I tried to post it all.</p>
@@ -24,10 +24,10 @@
     
     <item>
       <title>Using the Right Tool for the Job</title>
-      <link>https://omega1510.github.io/blog/posts/0020/</link>
+      <link>https://hayaan.me/posts/0020/</link>
       <pubDate>Sun, 10 Sep 2023 15:27:00 -0700</pubDate>
       
-      <guid>https://omega1510.github.io/blog/posts/0020/</guid>
+      <guid>https://hayaan.me/posts/0020/</guid>
       <description>Things are much easier that way.</description>
       <content:encoded><![CDATA[<p>A year or so ago, I learned the Rust<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> programming language. Since its first stable release in 2015, it has quickly developed a hold on the world of systems programming. It is well loved because it enforces memory safety, something many existing systems languages, like C, do not.</p>
 <p>Rust was designed from the ground up to be a <em>systems</em> programming language, used to build performance-critical software like operating systems and embedded applications. But then people go and try to build websites with it. I admit, I <a href="https://github.com/omega1510/webassembly">am</a> <a href="https://github.com/omega1510/todo">guilty</a> of this, too.</p>
@@ -54,10 +54,10 @@
     
     <item>
       <title>RSS and Algorithms</title>
-      <link>https://omega1510.github.io/blog/posts/0019/</link>
+      <link>https://hayaan.me/posts/0019/</link>
       <pubDate>Sat, 09 Sep 2023 16:23:18 -0700</pubDate>
       
-      <guid>https://omega1510.github.io/blog/posts/0019/</guid>
+      <guid>https://hayaan.me/posts/0019/</guid>
       <description>How to limit algorithms&amp;#39; control on you.</description>
       <content:encoded><![CDATA[<p>In &ldquo;<a href="https://www.linkedin.com/pulse/why-ai-scary-robots-already-control-you-muhammad-hadi-yusufali">Why is AI Scary? Robots Already Control You,</a>&rdquo; M. Hadi writes:</p>
 <blockquote>
@@ -73,10 +73,10 @@
     
     <item>
       <title>A Look at the Gulag with Ivan Denisovich</title>
-      <link>https://omega1510.github.io/blog/posts/0018/</link>
+      <link>https://hayaan.me/posts/0018/</link>
       <pubDate>Sat, 09 Sep 2023 15:46:15 -0700</pubDate>
       
-      <guid>https://omega1510.github.io/blog/posts/0018/</guid>
+      <guid>https://hayaan.me/posts/0018/</guid>
       <description>Time to yell at Stalin.</description>
       <content:encoded><![CDATA[<blockquote>
 <p>During his years in prisons and in camps he’d lost the habit of planning for the next day, for a year ahead, for supporting his family. The authorities did his thinking for him about everything—it was somehow easier that way.</p>
@@ -91,10 +91,10 @@
     
     <item>
       <title>Evil and an Omnipotent God</title>
-      <link>https://omega1510.github.io/blog/posts/0017/</link>
+      <link>https://hayaan.me/posts/0017/</link>
       <pubDate>Fri, 08 Sep 2023 17:53:13 -0700</pubDate>
       
-      <guid>https://omega1510.github.io/blog/posts/0017/</guid>
+      <guid>https://hayaan.me/posts/0017/</guid>
       <description>How can evil exist when God is good?</description>
       <content:encoded><![CDATA[<p>This post is an addendum to <a href="../0016">yesterday&rsquo;s post</a> about Thomas Aquinas&rsquo;s five ways to argue for the existence of God. In the same book where his arguments were published, the <a href="https://www.newadvent.org/summa/1002.htm#article3">Summa Theologica</a>, the Catholic philosopher addressed a possible objection to the omnipotence of God.</p>
 <p>He begins by describing the objection:</p>
@@ -113,10 +113,10 @@
     
     <item>
       <title>Aquinas&#39; Quinque Viae</title>
-      <link>https://omega1510.github.io/blog/posts/0016/</link>
+      <link>https://hayaan.me/posts/0016/</link>
       <pubDate>Thu, 07 Sep 2023 17:24:59 -0700</pubDate>
       
-      <guid>https://omega1510.github.io/blog/posts/0016/</guid>
+      <guid>https://hayaan.me/posts/0016/</guid>
       <description>A Catholic philosopher&amp;#39;s proofs for the existence of God.</description>
       <content:encoded><![CDATA[<p>The existence of God has been a point of contention among philosophers for as long as philosophy has existed. Even Socrates called into question the supremacy of the ancient Greek gods in his home of Athens nearly half a millenium prior to the birth of Christ. Still today, theists are engaged in vigorous debate with modern philosophers over rational evidence for God&rsquo;s existence.</p>
 <p>In the mid-13th century, Catholic philosopher Thomas Aquinas composed his magnum opus, the <a href="https://www.gutenberg.org/cache/epub/17611/pg17611.html"><em>Summa Theologica</em></a>, a religious textbook for students beginning their studies in theology. He recognized the necessity of proving God&rsquo;s existence in his work, and wrote the <a href="https://www.newadvent.org/summa/1002.htm#article3">Quinque Viae</a>: five ways to argue that God does indeed exist.</p>
@@ -145,14 +145,14 @@
     
     <item>
       <title>Outsourcing Thinking with Artificial Intelligence</title>
-      <link>https://omega1510.github.io/blog/posts/0015/</link>
+      <link>https://hayaan.me/posts/0015/</link>
       <pubDate>Wed, 06 Sep 2023 18:55:57 -0700</pubDate>
       
-      <guid>https://omega1510.github.io/blog/posts/0015/</guid>
+      <guid>https://hayaan.me/posts/0015/</guid>
       <description>ChatGPT thinks so we don&amp;#39;t have to.</description>
       <content:encoded><![CDATA[<p>I have no doubt that artifical intelligence is the next breakthrough technology. I am sure that you have seen the myriad of startups sticking machine learning into places it shouldn&rsquo;t go. Already generative AI has reformed the education space, forcing teachers and schools to adapt or fall behind.</p>
 <p>Like every breakthrough technology, research in the field follows a sigmoid curve. It starts out slow, then it feels like everything is using it all of a sudden, then it flattens out as innovation hits a plateau. With AI, it is impossible to tell where we are on that curve. I sincerely hope that we are nearing the end, that this technology has hit its limit and cannot improve any more.</p>
-<p><img loading="lazy" src="/blog/posts/0015/sigmoid.svg" type="" alt="A sigmoid curve."  /></p>
+<p><img loading="lazy" src="/posts/0015/sigmoid.svg" type="" alt="A sigmoid curve."  /></p>
 <p>Why do I feel this way? A scary pattern emerges when we look at the consequences of widespread adoption of previous breakthrough technologies. When the camera came along, we could offload our responsibility to remember the events in our life to the camera. No longer did we have to fill our brains with information about our experiences; we could rely on a photograph instead. The result: our memories of an object <a href="https://doi.org/10.1177/0956797613504438">are limited</a> when we take a photo of that object.</p>
 <p>I fear that if we begin outsourcing all our thinking to artifical intelligence, we will lose the ability to think. In my view, the ability to think critically is humanity&rsquo;s greatest strength. If we rely on generative AI to draw connections and link ideas, we <strong>will</strong> forget how to do it ourselves. And that scares me.</p>
 <p>I am reminded of H. G. Wells' 1895 novella <em>The Time Machine</em>. In it, the upper class of humanity has slowly made its life easier and easier through manipulation of its environment and of the workers beneath it. With no problems to solve, these future humans have devolved into animals with no ability to think. The workers, who have always relied on themselves to get by, become the new ruling class.</p>
@@ -162,10 +162,10 @@
     
     <item>
       <title>I Can&#39;t Do What I Love</title>
-      <link>https://omega1510.github.io/blog/posts/0014/</link>
+      <link>https://hayaan.me/posts/0014/</link>
       <pubDate>Tue, 05 Sep 2023 16:25:39 -0700</pubDate>
       
-      <guid>https://omega1510.github.io/blog/posts/0014/</guid>
+      <guid>https://hayaan.me/posts/0014/</guid>
       <description>A rant about making money following my passion.</description>
       <content:encoded><![CDATA[<p>I am starting to apply to colleges, and beginning that process involves first choosing what major to study. I love biology and chemistry, so I am naturally inclined to choose biochemistry. However, there are a number of issues that prevent me from pursuing what I would love to do in the future.</p>
 <p>First, if I am to major in biochemistry, I am more-or-less forced to pursue a doctoral degree. To quit my education with just a Bachelor&rsquo;s would be to condemn myself to a poor job outlook. Most companies in biotech are looking for candidates with a Ph.D. or M.D., and jobs for recent graduates with just a Bachelor&rsquo;s are few and far between, often with disappointing salaries.</p>
@@ -177,10 +177,10 @@
     
     <item>
       <title>Lessons from The Old Man and the Sea</title>
-      <link>https://omega1510.github.io/blog/posts/0013/</link>
+      <link>https://hayaan.me/posts/0013/</link>
       <pubDate>Mon, 04 Sep 2023 20:39:55 -0700</pubDate>
       
-      <guid>https://omega1510.github.io/blog/posts/0013/</guid>
+      <guid>https://hayaan.me/posts/0013/</guid>
       <description>Simple writing conveying deep meaning.</description>
       <content:encoded><![CDATA[<blockquote>
 <p>&ldquo;But man is not made for defeat,&rdquo; he said. &ldquo;A man can be destroyed but not defeated.&rdquo;</p>
@@ -194,10 +194,10 @@
     
     <item>
       <title>Cities Upon a Hill</title>
-      <link>https://omega1510.github.io/blog/posts/0012/</link>
+      <link>https://hayaan.me/posts/0012/</link>
       <pubDate>Sun, 03 Sep 2023 18:32:10 -0700</pubDate>
       
-      <guid>https://omega1510.github.io/blog/posts/0012/</guid>
+      <guid>https://hayaan.me/posts/0012/</guid>
       <description>Social media is dying.</description>
       <content:encoded><![CDATA[<p>I don&rsquo;t have any social media. I never have. But every day I am swarmed with signals from the top platforms on the web to JOIN JOIN JOIN! And when the signals aren&rsquo;t directly from them, they are from friends and family, who subtly give me funny looks when I tell them that I don&rsquo;t have an Instagram.</p>
 <p>Yesterday, I nearly made a Mastodon account. <em>Nearly.</em> While Mastodon is great as far as social media platforms go, it is still fundamentaly a breed of app I don&rsquo;t want anything to do with.</p>
@@ -215,10 +215,10 @@ And then there’re personal sites, the house in the forest. It’s the place pe
     
     <item>
       <title>Opting Out of AI Web Scraping</title>
-      <link>https://omega1510.github.io/blog/posts/0011/</link>
+      <link>https://hayaan.me/posts/0011/</link>
       <pubDate>Fri, 01 Sep 2023 22:02:56 -0700</pubDate>
       
-      <guid>https://omega1510.github.io/blog/posts/0011/</guid>
+      <guid>https://hayaan.me/posts/0011/</guid>
       <description>Why do I have to &amp;#34;opt-out?&amp;#34;</description>
       <content:encoded><![CDATA[<p>If you open my website&rsquo;s <a href="https://omega1510.github.io/robots.txt">robots.txt</a>, you will see that it includes the following lines:</p>
 <div class="highlight"><div class="chroma">
@@ -247,10 +247,10 @@ And then there’re personal sites, the house in the forest. It’s the place pe
     
     <item>
       <title>School Has Started</title>
-      <link>https://omega1510.github.io/blog/posts/0010/</link>
+      <link>https://hayaan.me/posts/0010/</link>
       <pubDate>Fri, 01 Sep 2023 20:16:17 -0700</pubDate>
       
-      <guid>https://omega1510.github.io/blog/posts/0010/</guid>
+      <guid>https://hayaan.me/posts/0010/</guid>
       <description>The beginning of the end.</description>
       <content:encoded><![CDATA[<p>My senior year of high school started on Monday. I am expecting a brutal few months, filled with countlessly revising long college essays in the hopes of gaining admission somewhere I won&rsquo;t totally hate.</p>
 <p>It is not all bad, though. I really only have three difficult classes: Honors English, AP Psychology, and AP Macroeconomics. I may decide to self-study AP Literature, but I don&rsquo;t know yet.</p>
@@ -261,10 +261,10 @@ And then there’re personal sites, the house in the forest. It’s the place pe
     
     <item>
       <title>On Sleep</title>
-      <link>https://omega1510.github.io/blog/posts/0009/</link>
+      <link>https://hayaan.me/posts/0009/</link>
       <pubDate>Fri, 01 Sep 2023 19:31:12 -0700</pubDate>
       
-      <guid>https://omega1510.github.io/blog/posts/0009/</guid>
+      <guid>https://hayaan.me/posts/0009/</guid>
       <description>I really need more of it...</description>
       <content:encoded><![CDATA[<blockquote>
 <p>It is He who made the night a garment for you, and sleep a rest, and made the day like a resurrection. (Quran 25:47)</p>
@@ -289,15 +289,15 @@ And then there’re personal sites, the house in the forest. It’s the place pe
     
     <item>
       <title>Operating Systems Are Bloated</title>
-      <link>https://omega1510.github.io/blog/posts/0008/</link>
+      <link>https://hayaan.me/posts/0008/</link>
       <pubDate>Tue, 29 Aug 2023 16:45:03 -0700</pubDate>
       
-      <guid>https://omega1510.github.io/blog/posts/0008/</guid>
+      <guid>https://hayaan.me/posts/0008/</guid>
       <description>There are so many apps included, and you have to use them.</description>
       <content:encoded><![CDATA[<p>I have been using Pop_OS!, a popular Linux distribution, on my laptop for years. Recently, I also switched my old desktop over to the lightweight operating system. When people argue over what system is the best, they often only consider macOS or Windows. However, a user of either system will not consider where both fail because they have never experienced what they could have had. Because I use neither, I think I can provide a unique perspective on the shortcomings of both options.</p>
 <p>I first had the idea to write about this when I replaced the Gnome desktop environment that came default with Pop_OS! with another piece of software called i3. It was a much better experience, and I wondered why other people do not make similar modifications to their computers. I soon realized, however, that modifications like this are not even possible when you are using a more conventional operating system.</p>
 <p>Historically, operating systems did what they said on the can: operate the system. They allowed applications, which were defined by the user, to communicate with the computer&rsquo;s hardware, and vice-versa.</p>
-<p><img loading="lazy" src="/blog/posts/0008/operating-system.svg" type="" alt="The historical role of operating systems."  /></p>
+<p><img loading="lazy" src="/posts/0008/operating-system.svg" type="" alt="The historical role of operating systems."  /></p>
 <p>But now, operating systems have gone from being a simple interface between applications and hardware to all-powerful processes demanding the user&rsquo;s complete submission. Gone are the days of choosing what your computer runs; operating systems provide default apps, and you <strong>must</strong> use them.</p>
 <p>Many points of contention in the &ldquo;what OS is best&rdquo; debate arise from the operating system making decisions for you and not letting you change its choice. For example, people argue over the placement of buttons on either the top-left or top-right corner. macOS has gone with the former option, while Windows chooses the latter. But this decision should never have been the OS&rsquo;s to make! This decision has always been made by the user when they installed a desktop environment; who let Apple or Microsoft choose?</p>
 <p>To illustrate again: Microsoft recently rounded the corners of windows in a visual revamp of their operating system. Historically, this has been an option in applications called compositors, which the user could choose to install. If they weren&rsquo;t satisfied with one, they could choose another. By rounding corners of windows with no way to undo it, Microsoft made a decision that the user had the right to make.</p>
@@ -309,10 +309,10 @@ And then there’re personal sites, the house in the forest. It’s the place pe
     
     <item>
       <title>Watches Aren&#39;t Investments</title>
-      <link>https://omega1510.github.io/blog/posts/0007/</link>
+      <link>https://hayaan.me/posts/0007/</link>
       <pubDate>Mon, 28 Aug 2023 20:33:07 -0700</pubDate>
       
-      <guid>https://omega1510.github.io/blog/posts/0007/</guid>
+      <guid>https://hayaan.me/posts/0007/</guid>
       <description>They are emotional purchases, not rational ones.</description>
       <content:encoded><![CDATA[<p>As the owner of a <em>very</em> small and cheap watch collection, I am in no way qualified to comment on the practice of buying luxury watches as investment opportunities. My most expensive watch does not even crack four figures, and none of the pieces in my collection are likely to provide me a return-on-investment.<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> Still—whether out of spite or because I have no stake in the result, I don&rsquo;t know—I am going to write out my opinion on the matter.</p>
 <p>An argument can be made that watches are great investments. <a href="https://www.bloomberg.com/news/articles/2023-02-16/luxury-swiss-watches-still-beat-stocks-and-crypto-despite-rolex-and-patek-drop">According to Bloomberg</a>, luxury Swiss watches have consistently beat stocks and crypto over the past few years. I am bombarded with videos of millionaire watch salesmen preaching the benefits of buying a $50,000 Patek Phillipe.</p>
@@ -331,10 +331,10 @@ And then there’re personal sites, the house in the forest. It’s the place pe
     
     <item>
       <title>Condemned to Be Free</title>
-      <link>https://omega1510.github.io/blog/posts/0006/</link>
+      <link>https://hayaan.me/posts/0006/</link>
       <pubDate>Fri, 25 Aug 2023 18:34:58 -0700</pubDate>
       
-      <guid>https://omega1510.github.io/blog/posts/0006/</guid>
+      <guid>https://hayaan.me/posts/0006/</guid>
       <description>Do humans have free will?</description>
       <content:encoded><![CDATA[<p><em>This essay was submitted in partial fulfillment of an Intro to Philosophy course at <a href="https://www.foothill.edu/">Foothill College</a>.</em></p>
 <p>For centuries, philosophers have debated what free will is and whether we even possess it. In an increasingly scientific world, some of them argue that our choices are determined only by the laws of physics. In contrast, others believe that free will is an essential component of human nature. Although the universe appears to operate in a deterministic way, the idea of free will is instrumental in our moral accountability and individual identity.</p>
@@ -347,10 +347,10 @@ And then there’re personal sites, the house in the forest. It’s the place pe
     
     <item>
       <title>Do Evil People Exist?</title>
-      <link>https://omega1510.github.io/blog/posts/0005/</link>
+      <link>https://hayaan.me/posts/0005/</link>
       <pubDate>Thu, 24 Aug 2023 16:30:15 -0700</pubDate>
       
-      <guid>https://omega1510.github.io/blog/posts/0005/</guid>
+      <guid>https://hayaan.me/posts/0005/</guid>
       <description>What does &amp;#34;evil&amp;#34; even mean?</description>
       <content:encoded><![CDATA[<p>This question was first asked to me nearly a decade ago by an elementary school teacher. It has stuck with me all these years because, as far as I can tell, it was my first introduction to the world of philosophy. When the teacher asked it to that group of young third-graders, no one could answer him. Now, I think I might have a response.</p>
 <h2 id="what-is-an-evil-action">What is an Evil Action?</h2>
@@ -384,10 +384,10 @@ And then there’re personal sites, the house in the forest. It’s the place pe
     
     <item>
       <title>Artificial Intelligence and Copyright</title>
-      <link>https://omega1510.github.io/blog/posts/0004/</link>
+      <link>https://hayaan.me/posts/0004/</link>
       <pubDate>Wed, 23 Aug 2023 22:07:58 -0700</pubDate>
       
-      <guid>https://omega1510.github.io/blog/posts/0004/</guid>
+      <guid>https://hayaan.me/posts/0004/</guid>
       <description>Court rules that AI-generated images can&amp;#39;t be copyrighted.</description>
       <content:encoded><![CDATA[<p>Last week, a U.S. District Judge <a href="https://www.reuters.com/legal/ai-generated-art-cannot-receive-copyrights-us-court-says-2023-08-21/">ruled</a> that images created solely by artifical intelligence without any human input cannot be copyrighted under U.S. copyright law. He stated that human authorship is a prerequisite for copyright, and simply owning the AI responsible for generating a work is not enough to give you authorship of its creation. I am very interested in seeing how this precedent plays out in court cases in the coming years.</p>
 <p>In particular, the issue of how much editing a human needs to do to the generated content for it to be considered a derivative work is of paramount importance and interest. If you have ChatGPT write an article, but you make a website and post it online, is that enough &ldquo;modification&rdquo; for you to be given ownership over the work?<sup id="fnref:1"><a href="#fn:1" class="footnote-ref" role="doc-noteref">1</a></sup> What if you perform minimal edits, like removing the [YOUR NAME] bits the AI sometimes outputs? Is that &ldquo;modification?&rdquo; SAG-AFTRA, the Hollywood writers union that is currently on strike over the use of AI in the industry, has a vested interest in not allowing copyrighting of works where even a little bit of generative AI was used.</p>
@@ -406,10 +406,10 @@ And then there’re personal sites, the house in the forest. It’s the place pe
     
     <item>
       <title>My Thoughts on The Double</title>
-      <link>https://omega1510.github.io/blog/posts/0003/</link>
+      <link>https://hayaan.me/posts/0003/</link>
       <pubDate>Tue, 22 Aug 2023 21:00:51 -0700</pubDate>
       
-      <guid>https://omega1510.github.io/blog/posts/0003/</guid>
+      <guid>https://hayaan.me/posts/0003/</guid>
       <description>It was a blood-curdling, psychological exploration of identity with an underwhelming plot.</description>
       <content:encoded><![CDATA[<blockquote>
 <p>Sorrow is concealed in gilded palaces, and there’s no escaping it.</p>
@@ -428,10 +428,10 @@ And then there’re personal sites, the house in the forest. It’s the place pe
     
     <item>
       <title>Why is Reading Gendered?</title>
-      <link>https://omega1510.github.io/blog/posts/0002/</link>
+      <link>https://hayaan.me/posts/0002/</link>
       <pubDate>Mon, 21 Aug 2023 19:11:52 -0700</pubDate>
       
-      <guid>https://omega1510.github.io/blog/posts/0002/</guid>
+      <guid>https://hayaan.me/posts/0002/</guid>
       <description>Where did all the fiction-loving men go?</description>
       <content:encoded><![CDATA[<p>I read a lot. Now that I think about it, I probably read too much. I stay up for hours most nights engrossed in the expansive world behind my Kindle&rsquo;s screen, dying to learn about the latest adventure the protagonist has gotten caught up in.</p>
 <p>When introducing myself to someone new, I usually say that I read books as a hobby. Recently, a girl I was talking to asked me my favorite book. &ldquo;<em>Crime and Punishment</em>,&rdquo; I responded. She replied, &ldquo;Dostoevsky, right?&rdquo; I can&rsquo;t convey on paper how much joy I felt in that moment.</p>
@@ -445,10 +445,10 @@ And then there’re personal sites, the house in the forest. It’s the place pe
     
     <item>
       <title>Hello, world!</title>
-      <link>https://omega1510.github.io/blog/posts/0001/</link>
+      <link>https://hayaan.me/posts/0001/</link>
       <pubDate>Sun, 20 Aug 2023 18:44:27 -0700</pubDate>
       
-      <guid>https://omega1510.github.io/blog/posts/0001/</guid>
+      <guid>https://hayaan.me/posts/0001/</guid>
       <description>Why I write.</description>
       <content:encoded><![CDATA[<h2 id="motivation">Motivation</h2>
 <p>I think it&rsquo;s fitting for the first post on this blog to be an explanation of why I&rsquo;m writing.</p>
