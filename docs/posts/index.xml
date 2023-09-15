@@ -5,7 +5,21 @@
     <link>https://hayaan.me/posts/</link>
     <description>Recent content in Posts on Hayaan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 13 Sep 2023 19:23:31 -0700</lastBuildDate><atom:link href="https://hayaan.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 14 Sep 2023 21:46:03 -0700</lastBuildDate><atom:link href="https://hayaan.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Privacy with the Google Nest Hub</title>
+      <link>https://hayaan.me/posts/0023/</link>
+      <pubDate>Thu, 14 Sep 2023 21:46:03 -0700</pubDate>
+      
+      <guid>https://hayaan.me/posts/0023/</guid>
+      <description>I&amp;#39;m on the fence about keeping it.</description>
+      <content:encoded><![CDATA[<p>I have slowly been removing more and more Google products from my life over concerns about their privacy, or lack thereof. I switched to DuckDuckGo, left Chrome for Firefox, and so on. So, like the inconsistent wreck I am, I have gotten my hands on a Google Nest Hub that I promptly set up on my bedside table.</p>
+<p>Like any Google product, its filled with blatant grabs for my data in the name of improving the company&rsquo;s products and services. I have said no to everything I can, but still I&rsquo;m uneasy about keeping it. It&rsquo;s a substantial upgrade over my previous alarm clock, given that it can set multiple alarms (the main feature I need) and also has all the Google Assistant stuff. However, there is something that erks me about keeping a motion sensor and microphone pointed at me all night, especially when all that data is going straight to Google&rsquo;s servers.</p>
+<p>I would feel much better about this if the data stayed on my device. But Google sends so many data points to their servers that really doesn&rsquo;t need to be there. One can&rsquo;t even ask Google Assistant for the time without being connected to the internet.</p>
+<p>In the end, I&rsquo;m on the fence about keeping it. Don&rsquo;t get me wrong, it&rsquo;s an amazing product, but I am bothered by having a smart display run by Google, of all companies.</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>Setting Up a Custom Domain</title>
       <link>https://hayaan.me/posts/0022/</link>
