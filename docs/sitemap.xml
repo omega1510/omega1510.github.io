@@ -2,19 +2,22 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://hayaan.me/posts/0024/</loc>
+    <lastmod>2023-09-15T15:23:52-07:00</lastmod>
+  </url><url>
     <loc>https://hayaan.me/</loc>
-    <lastmod>2023-09-14T21:46:03-07:00</lastmod>
+    <lastmod>2023-09-15T15:23:52-07:00</lastmod>
   </url><url>
     <loc>https://hayaan.me/posts/</loc>
-    <lastmod>2023-09-14T21:46:03-07:00</lastmod>
-  </url><url>
-    <loc>https://hayaan.me/posts/0023/</loc>
-    <lastmod>2023-09-14T21:46:03-07:00</lastmod>
+    <lastmod>2023-09-15T15:23:52-07:00</lastmod>
   </url><url>
     <loc>https://hayaan.me/tags/</loc>
-    <lastmod>2023-09-14T21:46:03-07:00</lastmod>
+    <lastmod>2023-09-15T15:23:52-07:00</lastmod>
   </url><url>
     <loc>https://hayaan.me/tags/technology/</loc>
+    <lastmod>2023-09-15T15:23:52-07:00</lastmod>
+  </url><url>
+    <loc>https://hayaan.me/posts/0023/</loc>
     <lastmod>2023-09-14T21:46:03-07:00</lastmod>
   </url><url>
     <loc>https://hayaan.me/tags/meta/</loc>

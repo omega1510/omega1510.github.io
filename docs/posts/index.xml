@@ -5,7 +5,21 @@
     <link>https://hayaan.me/posts/</link>
     <description>Recent content in Posts on Hayaan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Thu, 14 Sep 2023 21:46:03 -0700</lastBuildDate><atom:link href="https://hayaan.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Fri, 15 Sep 2023 15:23:52 -0700</lastBuildDate><atom:link href="https://hayaan.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>End-to-End Encryption is Not Secure</title>
+      <link>https://hayaan.me/posts/0024/</link>
+      <pubDate>Fri, 15 Sep 2023 15:23:52 -0700</pubDate>
+      
+      <guid>https://hayaan.me/posts/0024/</guid>
+      <description>It&amp;#39;s just another buzzword.</description>
+      <content:encoded><![CDATA[<p>We have all heard the classic tech buzzwords: artificial intelligence, machine learning, military-grade encryption, and countless others. This last one is particularly annoying because all it means is <code>AES256</code>, the bare minimum for a modern application. In recent years, the general public has begun to understand that military-grade encryption is just corporate-speak and nothing special. Unfortunately, the same cannot be said for the term &ldquo;end-to-end encryption.&rdquo;</p>
+<p>Encryption is good, don&rsquo;t get me wrong. In messaging applications its a requirement. But encryption means nothing when the company running the messaging application has the encryption keys. For example, <em>WhatsApp</em> encrypts messages when you send them, then <em>WhatsApp</em> decrypts them on the recipient&rsquo;s device. WhatsApp handles all the encryption, so they can read your messages, despite what they claim.</p>
+<p>This is the reason that most end-to-end encryption is not secure. Most applications that implement it don&rsquo;t put the keys in the user&rsquo;s hands, but keep them themselves. The way to tell if a company has done it properly is if you must generate keys on your own computer, then share them with the recipient, and vice-versa. Github is a good example of this. To sign commits, the user needs to generate their own OpenGPG key. This is the way to do it.</p>
+<p>I understand that an app like WhatsApp can&rsquo;t realistically have every user generate their own encryption keys. What they can do, however, is stop advertising &ldquo;end-to-end encryption&rdquo; like it&rsquo;s anything secure.</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>Privacy with the Google Nest Hub</title>
       <link>https://hayaan.me/posts/0023/</link>
