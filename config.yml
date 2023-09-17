@@ -82,8 +82,6 @@ params:
             This website is not dedicated to one particular style or topic; instead, it's just my little corner of the internet to write down what's on my mind.
 
     socialIcons:
-        - name: external-link
-          url: "https://hayaan.me/cv"
         - name: github
           url: "https://github.com/omega1510"
         - name: email
