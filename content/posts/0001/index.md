@@ -33,3 +33,5 @@ This blog will have absolutely no AI-generated content. It will have no advertis
 I recently came across [Julia Cameron's Morning Pages](https://juliacameronlive.com/basic-tools/morning-pages/), where you write three pages from the heart stream-of-conciousness style every morning. That's a little too hardcore for me.
 
 I'm aiming for posting about 300 words every day on this blog. Some days I'll write more, some days less. It's all about building a habit. Let's see how it goes.
+
+**Update:** I have enabled completely anonymized tracking. Nothing personally identifiable, even your IP address, is collected.
