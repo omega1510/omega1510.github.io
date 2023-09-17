@@ -5,7 +5,28 @@
     <link>https://hayaan.me/</link>
     <description>Recent content on Hayaan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 15 Sep 2023 15:23:52 -0700</lastBuildDate><atom:link href="https://hayaan.me/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 16 Sep 2023 18:23:45 -0700</lastBuildDate><atom:link href="https://hayaan.me/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Can We Even Stop Climate Change?</title>
+      <link>https://hayaan.me/posts/0025/</link>
+      <pubDate>Sat, 16 Sep 2023 18:23:45 -0700</pubDate>
+      
+      <guid>https://hayaan.me/posts/0025/</guid>
+      <description>Or is it already too late?</description>
+      <content:encoded><![CDATA[<p>The Left and the Right are always arguing over climate change. More specifically, they are hung up on whether or not the warming up of the planet&rsquo;s climate is man-made. This question was even asked in the Republican Presidential Debate a week or so ago.</p>
+<p>Personally, I don&rsquo;t see why this question is pertinent. Who cares if we caused Earth to heat up or not. This is a rare case where we need to fight the symptom, not the cause. We all know that the climate is changing and the world is getting hotter. The real question we need to be asking is: can we stop it?</p>
+<p>As far as I can tell, it will be incredibly difficult. The following chart depicts the projected temperature increase over the next century. If you follow the blue line, you can see that if we stop all carbon dioxide production in 2050, temperatures will still be higher than they are now.</p>
+<figure>
+    <img loading="lazy" src="climate_change_prediction.webp"
+         alt="Chart taken from the IPCC Sixth Assessment Report, Working Group 1."/> <figcaption>
+            <p>Chart taken from the <a href="https://www.ipcc.ch/report/ar6/wg1/">IPCC Sixth Assessment Report, Working Group 1</a>.</p>
+        </figcaption>
+</figure>
+
+<p>This is why I am incredibly pessimistic about the future of the planet&rsquo;s climate. I sincerly hope that these predictions are wrong. But for now, it seems like climate change is something unchangeable—its here to stay.</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>End-to-End Encryption is Not Secure</title>
       <link>https://hayaan.me/posts/0024/</link>
