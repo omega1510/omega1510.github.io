@@ -5,7 +5,28 @@
     <link>https://hayaan.me/posts/</link>
     <description>Recent content in Posts on Hayaan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sat, 16 Sep 2023 18:23:45 -0700</lastBuildDate><atom:link href="https://hayaan.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 17 Sep 2023 13:46:15 -0700</lastBuildDate><atom:link href="https://hayaan.me/posts/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>More About Centralizing Power</title>
+      <link>https://hayaan.me/posts/0026/</link>
+      <pubDate>Sun, 17 Sep 2023 13:46:15 -0700</pubDate>
+      
+      <guid>https://hayaan.me/posts/0026/</guid>
+      <description>The next burning of the Library of Alexandria.</description>
+      <content:encoded><![CDATA[<p>I few days ago I <a href="../0021/">wrote</a> about how corporations are centralizing their power online in their endless pursuit of profits. <a href="https://michal.sapka.me/2023/reddit-and-the-centralized-web/">This post</a> by Michał Sapke goes along the same lines, but looks at it from the perspective of lost knowledge:</p>
+<blockquote>
+<p>Somehow, silently Reddit has eaten the Web. What will happen when Reddit shuts down? It will, eventually. It’s a company, and those are not everlasting. And with that, we will lose a significant part of the knowledge on the Internet.</p>
+<p>What will happen when Wikipedia shuts down?</p>
+<p>What will happen when Youtube shuts down?</p>
+<p>When a blog or a forum shuts down, we lose its content, but not much is actually lost. For sure, someone has written the same or asked the same question. It may have been the best article about a given subject, but it’s not the only one. With the ubiquitous nature of Reddit or Wikipedia, people don’t duplicate the knowledge. Instead, just point to Reddit. Do we have an alternative to the bigger subreddits? How often a response is just a link to a Reddit thread?</p>
+<p>And what if the answer lives in a closed Discord server? Discordization of the Web is what we see now. All this knowledge is not publicly available.</p>
+<p>What we see now is just a taste of the Web corporations want. And this will lead to the next burning of the Library of Alexandria.</p>
+</blockquote>
+<p>I&rsquo;m pessimistic about the future of knowledge on the Web. In the past, I would have said that we would always have the Internet Archive when Reddit shuts down, but that organization has <a href="https://time.com/6266147/internet-archive-copyright-infringement-books-lawsuit/">recently come under attack</a>. Now, I don&rsquo;t know how we move forward. Downloading Reddit is not an option now that the API is restricted.</p>
+<p>Something big needs to change. I hope it does.</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>Can We Even Stop Climate Change?</title>
       <link>https://hayaan.me/posts/0025/</link>
