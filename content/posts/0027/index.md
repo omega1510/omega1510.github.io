@@ -18,6 +18,6 @@ Danaher, a company that owns many biotech companies, loves this model. Their dau
 
 This is not okay. Over 40% of TB cases go undiagnosed, and Danaher could save hundreds of thousands of lives if they drop the price of tests down to \$5, a price that is low but still allows them to turn a profit. Right now, the tests are \$10-\$15, the same as the weekly median salary in TB-ridden Sierra Leone.
 
-This is not okay. People who need these tests the most pay too often with their lives. Danaher, it's time for \$5.
+This is not okay. People who need these tests the most pay too often with their lives. [Danaher, it's time for \$5](https://tbfighters.org/).
 
 ![](tbfighters.png)
