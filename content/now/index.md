@@ -23,5 +23,7 @@ I am also enrolled at [Foothill College](https://www.foothill.edu/) and take a c
 
 ## What I'm Reading
 
-I am currently reading [_The Road_](https://en.wikipedia.org/wiki/The_Road) by Cormac McCarthy. The last book I read was [_One Day in the Life of Ivan Denisovich_](https://en.wikipedia.org/wiki/One_Day_in_the_Life_of_Ivan_Denisovich) by Aleksandr Solzhenitsyn. I have been into Russian literature lately, and plan to read [_Cancer Ward_](https://en.wikipedia.org/wiki/Cancer_Ward) or [_The Master and Margarita_](https://en.wikipedia.org/wiki/The_Master_and_Margarita) next.
+![](cover.jpg)
+
+I am currently reading [The Brothers Karamazov](https://en.wikipedia.org/wiki/The_Brothers_Karamazov) by Fyodor Dostoevsky. The last book I read was [_The Road_](https://en.wikipedia.org/wiki/The_Road) by Cormac McCarthy. I have been into Russian literature lately, and plan to read [_Cancer Ward_](https://en.wikipedia.org/wiki/Cancer_Ward) or [_The Master and Margarita_](https://en.wikipedia.org/wiki/The_Master_and_Margarita) next.
 
