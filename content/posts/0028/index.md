@@ -1,5 +1,5 @@
 ---
-title: "Finding Hope on The Road"
+title: "Finding Balance on The Road"
 date: 2023-09-18T16:54:16-07:00
 description: "We are all carrying the fire."
 author: "Hayaan Rizvi"
@@ -9,6 +9,8 @@ draft: false
 tags:
   - reading
 ---
+
+> What's the bravest thing you ever did? He spat in the road a bloody phlegm. Getting up this morning, he said.
 
 Yesterday I finished [_The Road_](https://en.wikipedia.org/wiki/The_Road) by Cormac McCarthy. I usually don't read contemporary literature, but I stumbled on this book in a Reddit thread about emotional books, and decided to give it a shot. It was published in 2006, and I feel that it was a breath of fresh air given that I mostly read 19th-century Russian novels.
 
