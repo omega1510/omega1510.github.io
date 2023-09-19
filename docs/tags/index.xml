@@ -5,11 +5,21 @@
     <link>https://hayaan.me/tags/</link>
     <description>Recent content in Tags on Hayaan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 18 Sep 2023 16:54:16 -0700</lastBuildDate><atom:link href="https://hayaan.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 19 Sep 2023 14:13:08 -0700</lastBuildDate><atom:link href="https://hayaan.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>philosophy</title>
+      <link>https://hayaan.me/tags/philosophy/</link>
+      <pubDate>Tue, 19 Sep 2023 14:13:08 -0700</pubDate>
+      
+      <guid>https://hayaan.me/tags/philosophy/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
     <item>
       <title>reading</title>
       <link>https://hayaan.me/tags/reading/</link>
-      <pubDate>Mon, 18 Sep 2023 16:54:16 -0700</pubDate>
+      <pubDate>Tue, 19 Sep 2023 14:13:08 -0700</pubDate>
       
       <guid>https://hayaan.me/tags/reading/</guid>
       <description></description>
@@ -32,16 +42,6 @@
       <pubDate>Wed, 13 Sep 2023 19:23:31 -0700</pubDate>
       
       <guid>https://hayaan.me/tags/meta/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>philosophy</title>
-      <link>https://hayaan.me/tags/philosophy/</link>
-      <pubDate>Fri, 08 Sep 2023 17:53:13 -0700</pubDate>
-      
-      <guid>https://hayaan.me/tags/philosophy/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
