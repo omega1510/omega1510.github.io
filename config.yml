@@ -77,9 +77,13 @@ params:
         Content: >
             I'm a high school student living in the San Francisco Bay Area.
             I love biology and chemistry. I also read classical literature *way* too much.
-            
+
 
             This website is not dedicated to one particular style or topic; instead, it's just my little corner of the internet to write down what's on my mind.
+
+
+            [![Non-profit blogger badge](nonprofit_blogger.svg)](https://github.com/uxai/non-profit-bloggers)
+
 
     socialIcons:
         - name: github
