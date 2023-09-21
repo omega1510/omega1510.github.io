@@ -14,11 +14,11 @@ ShowWordCount: false
 ShowPostNavLinks: false
 ---
 
-I'm Hayaan. You can find out more about me [here](https://omega1510.github.io).
+I'm Hayaan. You can find out more about me [here](https://hayaan.me/now/).
 
 **This is how you can get in touch:**
 
-- This [blog](https://omega1510.github.io/blog) is the the only place on the internet I post content. If it's somewhere else, it didn't come from me!
+- This [blog](https://hayaan.me/) is the the only place on the internet I post content. If it's somewhere else, it didn't come from me!
 
 - My [email](mailto:hayaanrizvi@gmail.com) is the best way to get in touch with me. I'll try and reply quickly, but delays are to be expected.
 
@@ -26,6 +26,6 @@ I'm Hayaan. You can find out more about me [here](https://omega1510.github.io).
 
 - I don't have any social media except for YouTube. Thats right; no Twitter, Instagram, LinkedIn, Mastodon, etc.
 
-- If you want to make a correction about something on this blog, [make a pull request](https://github.com/omega1510/blog).
+- If you want to make a correction about something on this blog, [make a pull request](https://github.com/omega1510/omega1510.github.io).
 
 
