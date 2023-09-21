@@ -5,7 +5,24 @@
     <link>https://hayaan.me/tags/technology/</link>
     <description>Recent content in technology on Hayaan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Sun, 17 Sep 2023 13:46:15 -0700</lastBuildDate><atom:link href="https://hayaan.me/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 20 Sep 2023 17:40:53 -0700</lastBuildDate><atom:link href="https://hayaan.me/tags/technology/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Stop Making Newsletters</title>
+      <link>https://hayaan.me/posts/0032/</link>
+      <pubDate>Wed, 20 Sep 2023 17:40:53 -0700</pubDate>
+      
+      <guid>https://hayaan.me/posts/0032/</guid>
+      <description>Or, why I hate Morning Brew.</description>
+      <content:encoded><![CDATA[<p>I want to love <a href="https://www.morningbrew.com/">Morning Brew</a>. I really do. It&rsquo;s a newsletter that puts an overview of the news in your email inbox every morning. In all honesty, I think its a great way to get a quick sense of what&rsquo;s going on in the world. There is just one issue: it&rsquo;s a newsletter.</p>
+<p>I hate newsletters. Why? Newsletters are delivered with email, which is designed for two-way communication, not one-way broadcasts. Email is best used for conversations between two or more people who share a personal connection. In other words, email is for talking, not reading.</p>
+<p>Most newsletters disable comments, often use unsupported HTML, and automate messages to <em>forcibly</em> use email to disseminate information. Think about it: everything annoying in your email inbox is a newsletter that isn&rsquo;t doing what email is designed to do. Its forcing its way into a service because it&rsquo;s popular, not because it&rsquo;s the right choice.</p>
+<p>What if you could separate newsletters into a different app? Instead of email, newsletters should use RSS, which is designed to be one-way. This is better for the user, who can deal with newsletters together with all their other news. It&rsquo;s better for the newsletter, which no longer has to implement hacky workarounds to avoid bugs in email.</p>
+<p>That&rsquo;s also the reason that this blog doesn&rsquo;t offer a newsletter, only RSS. This blog is mostly one-way communication. If you want to comment, where do I direct you? Email.</p>
+<p>But, for some reason, many newsletters just won&rsquo;t switch. This is the reason I hate Morning Brew. It insists on forcing its way into my inbox, instead of letting me decide on how to deal with it&rsquo;s posts.</p>
+<p>There is no reason to make newsletters in the modern day. Please, just publish with RSS.</p>
+]]></content:encoded>
+    </item>
+    
     <item>
       <title>More About Centralizing Power</title>
       <link>https://hayaan.me/posts/0026/</link>
