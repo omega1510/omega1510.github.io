@@ -2,13 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hayaan.me/posts/0034/</loc>
-    <lastmod>2023-09-22T21:31:59-07:00</lastmod>
-  </url><url>
     <loc>https://hayaan.me/</loc>
-    <lastmod>2023-09-22T21:31:59-07:00</lastmod>
+    <lastmod>2023-09-24T19:28:50-07:00</lastmod>
   </url><url>
     <loc>https://hayaan.me/posts/</loc>
+    <lastmod>2023-09-24T19:28:50-07:00</lastmod>
+  </url><url>
+    <loc>https://hayaan.me/posts/0035/</loc>
+    <lastmod>2023-09-24T19:28:50-07:00</lastmod>
+  </url><url>
+    <loc>https://hayaan.me/posts/0034/</loc>
     <lastmod>2023-09-22T21:31:59-07:00</lastmod>
   </url><url>
     <loc>https://hayaan.me/tags/reading/</loc>
