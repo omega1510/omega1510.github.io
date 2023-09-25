@@ -1,7 +1,7 @@
 ---
 title: "Think, Don't Talk"
 date: 2023-09-24T19:28:50-07:00
-description: "Description Text."
+description: "A lesson from The Prophet."
 author: "Hayaan Rizvi"
 showToc: false
 TocOpen: false
