@@ -17,7 +17,7 @@ ShowPostNavLinks: false
 
 ## What's Going On
 
-I am a 17 year old high school senior living in Fremont, California. I go to school at [RISE Academy](https://www.riseacademy.education/) and am currently trying to get into a top university for biochemistry. I am have been an officer member of Student Council for 2 years.
+I am a 17 year old high school senior living in Fremont, California. I go to school at [RISE Academy](https://www.riseacademy.education/) and am currently trying to get into a top university for Biochemistry. I have been an officer member of Student Council for 2 years, and am trying to get elected again this year.
 
 I am also enrolled at [Foothill College](https://www.foothill.edu/) and take a class nearly every semester. I plan to take General Chemistry for the next few months.
 
@@ -25,5 +25,5 @@ I am also enrolled at [Foothill College](https://www.foothill.edu/) and take a c
 
 ![](cover.jpg)
 
-I am currently reading [The Brothers Karamazov](https://en.wikipedia.org/wiki/The_Brothers_Karamazov) by Fyodor Dostoevsky. The last book I read was [_The Road_](https://en.wikipedia.org/wiki/The_Road) by Cormac McCarthy. I have been into Russian literature lately, and plan to read [_Cancer Ward_](https://en.wikipedia.org/wiki/Cancer_Ward) or [_The Master and Margarita_](https://en.wikipedia.org/wiki/The_Master_and_Margarita) next.
+I am currently reading [_The Brothers Karamazov_](https://en.wikipedia.org/wiki/The_Brothers_Karamazov) by Fyodor Dostoevsky. The last book I read was [_The Road_](https://en.wikipedia.org/wiki/The_Road) by Cormac McCarthy. I have been into Russian literature lately, and plan to read [_Cancer Ward_](https://en.wikipedia.org/wiki/Cancer_Ward) or [_The Master and Margarita_](https://en.wikipedia.org/wiki/The_Master_and_Margarita) next.
 
