@@ -5,7 +5,17 @@
     <link>https://hayaan.me/tags/</link>
     <description>Recent content in Tags on Hayaan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Fri, 22 Sep 2023 21:31:59 -0700</lastBuildDate><atom:link href="https://hayaan.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 26 Sep 2023 20:52:15 -0700</lastBuildDate><atom:link href="https://hayaan.me/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>personal</title>
+      <link>https://hayaan.me/tags/personal/</link>
+      <pubDate>Tue, 26 Sep 2023 20:52:15 -0700</pubDate>
+      
+      <guid>https://hayaan.me/tags/personal/</guid>
+      <description></description>
+      <content:encoded><![CDATA[]]></content:encoded>
+    </item>
+    
     <item>
       <title>reading</title>
       <link>https://hayaan.me/tags/reading/</link>
@@ -52,16 +62,6 @@
       <pubDate>Wed, 20 Sep 2023 09:59:49 -0700</pubDate>
       
       <guid>https://hayaan.me/tags/milestone/</guid>
-      <description></description>
-      <content:encoded><![CDATA[]]></content:encoded>
-    </item>
-    
-    <item>
-      <title>personal</title>
-      <link>https://hayaan.me/tags/personal/</link>
-      <pubDate>Tue, 05 Sep 2023 16:25:39 -0700</pubDate>
-      
-      <guid>https://hayaan.me/tags/personal/</guid>
       <description></description>
       <content:encoded><![CDATA[]]></content:encoded>
     </item>
