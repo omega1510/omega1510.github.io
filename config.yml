@@ -18,14 +18,14 @@ minify:
 
 params:
     env: production # to enable opengraph, twitter-cards and schema.
-    title: Hayaan Rizvi - Blog
+    title: Hayaan's Blog
     description: "My little corner of the internet."
-    keywords: [Blog, Portfolio, Personal, Tech, Philosophy]
+    keywords: [Blog, Portfolio, Personal, Tech, Philosophy, Reading]
     author: Hayaan Rizvi
     # author: ["Me", "You"] # multiple authors
     images: ["/images/writing.jpg"]
     DateFormat: "January 2, 2006"
-    defaultTheme: auto # dark, light
+    defaultTheme: dark # dark, light
     disableThemeToggle: false
 
     ShowReadingTime: true
