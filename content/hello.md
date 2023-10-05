@@ -14,7 +14,7 @@ ShowWordCount: false
 ShowPostNavLinks: false
 ---
 
-I'm Hayaan. You can find out more about me [here](https://hayaan.me/now/).
+I am Hayaan. You can find out more about me [here](https://hayaan.me/now/).
 
 **This is how you can get in touch:**
 
