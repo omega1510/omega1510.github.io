@@ -23,3 +23,7 @@
     padding-left: 0px;
     font-family: Georgia;
 }
+
+.post-content sup a::after, .post-content sup a::before {
+    content: "";
+}
