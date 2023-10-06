@@ -14,6 +14,10 @@
     /* border-left: 8px solid var(--signature); */
 }
 
+.post-content, .home-info {
+    text-align: justify;
+}
+
 .post-content > p:first-of-type::first-letter {
     float: left;
     font-size: 59px;
@@ -27,3 +31,4 @@
 .post-content sup a::after, .post-content sup a::before {
     content: "";
 }
+
