@@ -90,6 +90,8 @@ params:
           url: "https://github.com/omega1510"
         - name: email
           url: "mailto:hayaanrizvi@gmail.com"
+        - name: goodreads
+          url: "https://www.goodreads.com/user/show/172215616-hayaan-rizvi"
         - name: rss
           url: "posts/index.xml"
 
