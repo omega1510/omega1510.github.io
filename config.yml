@@ -119,7 +119,7 @@ menu:
     main:
         - identifier: hello
           name: Hello
-          url: /hello
+          url: /hello/
           weight: 10
         # - identifier: now
         #   name: Now
@@ -131,11 +131,11 @@ menu:
           weight: 40
         - identifier: resume
           name: Resume
-          url: "https://omega1510.github.io/resume.pdf"
+          url: /resume/
           weight: 50
         - identifier: search
           name: Search
-          url: /search
+          url: /search/
           weight: 100
 
 # Read: https://github.com/reorx/hugo-PaperModX/wiki/FAQs#using-hugos-syntax-highlighter-chroma
