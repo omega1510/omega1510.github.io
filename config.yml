@@ -131,7 +131,7 @@ menu:
           weight: 40
         - identifier: resume
           name: Resume
-          url: /resume.pdf
+          url: "https://omega1510.github.io/resume.pdf"
           weight: 50
         - identifier: search
           name: Search
