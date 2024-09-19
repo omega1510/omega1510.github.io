@@ -2,7 +2,7 @@ baseURL: "https://omega1510.github.io"
 title: "Hayaan's Blog"
 paginate: 5
 theme: PaperModX
-publishDir: docs
+# publishDir: docs
 
 enableRobotsTXT: true
 buildDrafts: false
