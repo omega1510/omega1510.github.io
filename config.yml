@@ -10,7 +10,7 @@ buildFuture: false
 buildExpired: false
 pygmentsUseClasses: true
 
-googleAnalytics: G-W05KNKTR41
+# googleAnalytics: G-W05KNKTR41
 
 minify:
     disableXML: true
