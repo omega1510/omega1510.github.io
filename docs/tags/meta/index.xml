@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>meta on Hayaan&#39;s Blog</title>
-    <link>https://hayaan.me/tags/meta/</link>
+    <link>https://omega1510.github.io/tags/meta/</link>
     <description>Recent content in meta on Hayaan&#39;s Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Wed, 24 Jan 2024 13:45:58 -0800</lastBuildDate><atom:link href="https://hayaan.me/tags/meta/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Wed, 24 Jan 2024 13:45:58 -0800</lastBuildDate><atom:link href="https://omega1510.github.io/tags/meta/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Back to Writing</title>
-      <link>https://hayaan.me/posts/0040/</link>
+      <link>https://omega1510.github.io/posts/0040/</link>
       <pubDate>Wed, 24 Jan 2024 13:45:58 -0800</pubDate>
       
-      <guid>https://hayaan.me/posts/0040/</guid>
+      <guid>https://omega1510.github.io/posts/0040/</guid>
       <description>So much to write, so little time.</description>
       <content:encoded><![CDATA[<p>I now have a little bit more time on my hands, so I&rsquo;ll try to post more often. Also play Destiny 2 more often.</p>
 ]]></content:encoded>
@@ -19,10 +19,10 @@
     
     <item>
       <title>One Month</title>
-      <link>https://hayaan.me/posts/0031/</link>
+      <link>https://omega1510.github.io/posts/0031/</link>
       <pubDate>Wed, 20 Sep 2023 09:59:49 -0700</pubDate>
       
-      <guid>https://hayaan.me/posts/0031/</guid>
+      <guid>https://omega1510.github.io/posts/0031/</guid>
       <description>A small milestone.</description>
       <content:encoded><![CDATA[<p>This blog&rsquo;s <a href="posts/0001/">first post</a> was on August 20. Today&rsquo;s date is September 20. That marks one month that this blog has been active. Yay!</p>
 <p>I still don&rsquo;t feel any real effects from the blog. Maybe that will take a little bit longer. I do, however, look forward to posting every day, so that&rsquo;s good.</p>
@@ -32,10 +32,10 @@
     
     <item>
       <title>Setting Up a Custom Domain</title>
-      <link>https://hayaan.me/posts/0022/</link>
+      <link>https://omega1510.github.io/posts/0022/</link>
       <pubDate>Wed, 13 Sep 2023 19:23:31 -0700</pubDate>
       
-      <guid>https://hayaan.me/posts/0022/</guid>
+      <guid>https://omega1510.github.io/posts/0022/</guid>
       <description>It&amp;#39;s important for the longevity of the web.</description>
       <content:encoded><![CDATA[<p>Using a custom domain on your website is great for all the obvious reasons. It forms a brand identity, keeps your site memorable, and looks much better than <code>username.github.io</code>, for example.</p>
 <p>But, it&rsquo;s important for another reason: longevity. No web server is forever. Your website <strong>will</strong> die some day in the future in an irrecoverable way. When that happens, you will be forced to transfer it to a new server. If you don&rsquo;t own your domain, all the links to your content that you have accumulated throughout the years will die with your old server. With a custom domain, maintaining hyperlinks in the event of a catastrophic faliure is as simple as editing a couple lines of text.</p>
@@ -46,10 +46,10 @@
     
     <item>
       <title>Opting Out of AI Web Scraping</title>
-      <link>https://hayaan.me/posts/0011/</link>
+      <link>https://omega1510.github.io/posts/0011/</link>
       <pubDate>Fri, 01 Sep 2023 22:02:56 -0700</pubDate>
       
-      <guid>https://hayaan.me/posts/0011/</guid>
+      <guid>https://omega1510.github.io/posts/0011/</guid>
       <description>Why do I have to &amp;#34;opt-out?&amp;#34;</description>
       <content:encoded><![CDATA[<p>If you open my website&rsquo;s <a href="https://omega1510.github.io/robots.txt">robots.txt</a>, you will see that it includes the following lines:</p>
 <div class="highlight"><div class="chroma">
@@ -78,10 +78,10 @@
     
     <item>
       <title>Hello, world!</title>
-      <link>https://hayaan.me/posts/0001/</link>
+      <link>https://omega1510.github.io/posts/0001/</link>
       <pubDate>Sun, 20 Aug 2023 18:44:27 -0700</pubDate>
       
-      <guid>https://hayaan.me/posts/0001/</guid>
+      <guid>https://omega1510.github.io/posts/0001/</guid>
       <description>Why I write.</description>
       <content:encoded><![CDATA[<h2 id="motivation">Motivation</h2>
 <p>I think it&rsquo;s fitting for the first post on this blog to be an explanation of why I&rsquo;m writing.</p>

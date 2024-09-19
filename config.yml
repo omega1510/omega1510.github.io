@@ -1,4 +1,4 @@
-baseURL: "https://hayaan.me"
+baseURL: "https://omega1510.github.io"
 title: "Hayaan's Blog"
 paginate: 5
 theme: PaperModX
@@ -75,8 +75,8 @@ params:
     homeInfoParams:
         Title: "Hi \U0001F44B, I'm Hayaan Rizvi"
         Content: >
-            I'm a high school student living in the San Francisco Bay Area.
-            I love biology and chemistry. I also read classical literature *way* too much.
+            I'm an undergraduate student at the University of California, Berkeley majoring in Molecular and Cell Biology.
+            I love biology and chemistry and read classical literature *way* too much.
 
 
             This website is not dedicated to one particular style or topic; instead, it's just my little corner of the internet to write down what's on my mind.
@@ -86,10 +86,10 @@ params:
 
 
     socialIcons:
-        - name: github
-          url: "https://github.com/omega1510"
         - name: email
           url: "mailto:hayaanrizvi@gmail.com"
+        - name: github
+          url: "https://github.com/omega1510"
         - name: goodreads
           url: "https://www.goodreads.com/user/show/172215616-hayaan-rizvi"
         - name: rss
@@ -121,14 +121,18 @@ menu:
           name: Hello
           url: /hello
           weight: 10
-        - identifier: now
-          name: Now
-          url: /now
-          weight: 20
+        # - identifier: now
+        #   name: Now
+        #   url: /now
+        #   weight: 20
         - identifier: archive
           name: Archive
           url: /archive/
           weight: 40
+        - identifier: resume
+          name: Resume
+          url: /resume.pdf
+          weight: 50
         - identifier: search
           name: Search
           url: /search
