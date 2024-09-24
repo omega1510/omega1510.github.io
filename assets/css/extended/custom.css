@@ -24,10 +24,9 @@
 
 .post-content > p:first-of-type::first-letter {
     float: left;
-    font-size: 59px;
-    line-height: 30px;
-    padding-top: 5px;
-    padding-right: 7px;
+    font-size: 4em;
+    padding-top: 0.1em;
+    padding-right: 0.1em;
     padding-left: 0px;
     /* font-family: Georgia; */
 }
