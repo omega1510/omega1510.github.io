@@ -29,10 +29,41 @@
     padding-top: 5px;
     padding-right: 7px;
     padding-left: 0px;
-    font-family: Georgia;
+    /* font-family: Georgia; */
 }
 
 .post-content sup a::after, .post-content sup a::before {
     content: "";
 }
 
+@font-face {
+    font-family: 'Bookerly';
+    src: url('/fonts/Bookerly.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bookerly';
+    src: url('/fonts/Bookerly Bold.ttf') format('truetype');
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: 'Bookerly';
+    src: url('/fonts/Bookerly Italic.ttf') format('truetype');
+    font-weight: normal;
+    font-style: italic;
+}
+
+@font-face {
+    font-family: 'Bookerly';
+    src: url('/fonts/Bookerly Bold Italic.ttf') format('truetype');
+    font-weight: bold;
+    font-style: italic;
+}
+
+body {
+    font-family: Bookerly, serif;
+}
