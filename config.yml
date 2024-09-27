@@ -130,7 +130,7 @@ menu:
           url: /archive/
           weight: 40
         - identifier: resume
-          name: Resume
+          name: Résumé
           url: /resume/
           weight: 50
         - identifier: search
