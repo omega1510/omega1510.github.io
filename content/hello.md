@@ -14,9 +14,7 @@ ShowWordCount: false
 ShowPostNavLinks: false
 ---
 
-I am Hayaan. You can find out more about me [here](https://hayaan.me/now/).
-
-**This is how you can get in touch:**
+**Hey! This is how you can get in touch:**
 
 - This [blog](https://hayaan.me/) is the the only place on the internet where I post content. If it's somewhere else, it didn't come from me!
 
